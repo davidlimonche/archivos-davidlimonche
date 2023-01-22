@@ -1,1 +1,42 @@
-{"name": "David Limonche", "short_name": "David Limonche", "start_url": "https://www.davidlimonche.com/", "display": "standalone", "icons": [{"sizes": "114x114", "src": "https://lh3.googleusercontent.com/-0UpZDWRJDrQ/Y8tdhx0r7pI/AAAAAAAAAPI/dI1aX7MOQJQE7NPpnz6S8z_Sgu3tGDkCwCNcBGAsYHQ/w114-h114-p-k-no-nu/david-limonche-logo-redondeado.webp"},{"sizes": "120x120", "src": "https://lh3.googleusercontent.com/-0UpZDWRJDrQ/Y8tdhx0r7pI/AAAAAAAAAPI/dI1aX7MOQJQE7NPpnz6S8z_Sgu3tGDkCwCNcBGAsYHQ/w120-h120-p-k-no-nu/david-limonche-logo-redondeado.webp"},{"sizes": "144x144", "src": "https://lh3.googleusercontent.com/-0UpZDWRJDrQ/Y8tdhx0r7pI/AAAAAAAAAPI/dI1aX7MOQJQE7NPpnz6S8z_Sgu3tGDkCwCNcBGAsYHQ/w144-h144-p-k-no-nu/david-limonche-logo-redondeado.webp"},{"sizes": "152x152", "src": "https://lh3.googleusercontent.com/-0UpZDWRJDrQ/Y8tdhx0r7pI/AAAAAAAAAPI/dI1aX7MOQJQE7NPpnz6S8z_Sgu3tGDkCwCNcBGAsYHQ/w152-h152-p-k-no-nu/david-limonche-logo-redondeado.webp"},{"sizes": "180x180", "src": "https://lh3.googleusercontent.com/-0UpZDWRJDrQ/Y8tdhx0r7pI/AAAAAAAAAPI/dI1aX7MOQJQE7NPpnz6S8z_Sgu3tGDkCwCNcBGAsYHQ/w180-h180-p-k-no-nu/david-limonche-logo-redondeado.webp"},{"sizes": "57x57", "src": "https://lh3.googleusercontent.com/-0UpZDWRJDrQ/Y8tdhx0r7pI/AAAAAAAAAPI/dI1aX7MOQJQE7NPpnz6S8z_Sgu3tGDkCwCNcBGAsYHQ/w57-h57-p-k-no-nu/david-limonche-logo-redondeado.webp"},{"sizes": "60x60", "src": "https://lh3.googleusercontent.com/-0UpZDWRJDrQ/Y8tdhx0r7pI/AAAAAAAAAPI/dI1aX7MOQJQE7NPpnz6S8z_Sgu3tGDkCwCNcBGAsYHQ/w60-h60-p-k-no-nu/david-limonche-logo-redondeado.webp"},{"sizes": "72x72", "src": "https://lh3.googleusercontent.com/-0UpZDWRJDrQ/Y8tdhx0r7pI/AAAAAAAAAPI/dI1aX7MOQJQE7NPpnz6S8z_Sgu3tGDkCwCNcBGAsYHQ/w72-h72-p-k-no-nu/david-limonche-logo-redondeado.webp"},{"sizes": "76x76", "src": "https://lh3.googleusercontent.com/-0UpZDWRJDrQ/Y8tdhx0r7pI/AAAAAAAAAPI/dI1aX7MOQJQE7NPpnz6S8z_Sgu3tGDkCwCNcBGAsYHQ/w76-h76-p-k-no-nu/david-limonche-logo-redondeado.webp"},{"src": "https://lh3.googleusercontent.com/-0UpZDWRJDrQ/Y8tdhx0r7pI/AAAAAAAAAPI/dI1aX7MOQJQE7NPpnz6S8z_Sgu3tGDkCwCNcBGAsYHQ/w192-h192-p-k-no-nu/david-limonche-logo-redondeado.webp", "type": "image/png", "sizes": "192x192"},{"src": "https://lh3.googleusercontent.com/-0UpZDWRJDrQ/Y8tdhx0r7pI/AAAAAAAAAPI/dI1aX7MOQJQE7NPpnz6S8z_Sgu3tGDkCwCNcBGAsYHQ/w512-h512-p-k-no-nu/david-limonche-logo-redondeado.webp", "type": "image/png", "sizes": "512x512"}]}
+{
+    "name": "David Limonche",
+    "short_name": "David Limonche",
+    "start_url": "https://www.davidlimonche.com/",
+    "display": "standalone",
+    "icons": [{
+        "sizes": "114x114",
+        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
+    }, {
+        "sizes": "120x120",
+        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
+    }, {
+        "sizes": "144x144",
+        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
+    }, {
+        "sizes": "152x152",
+        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
+    }, {
+        "sizes": "180x180",
+        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
+    }, {
+        "sizes": "57x57",
+        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
+    }, {
+        "sizes": "60x60",
+        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
+    }, {
+        "sizes": "72x72",
+        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
+    }, {
+        "sizes": "76x76",
+        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
+    }, {
+        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg",
+        "type": "image/png",
+        "sizes": "192x192"
+    }, {
+        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg",
+        "type": "image/png",
+        "sizes": "512x512"
+    }]
+}
