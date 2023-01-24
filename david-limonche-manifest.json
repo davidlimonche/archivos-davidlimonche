@@ -1,42 +1,79 @@
+
 {
-    "name": "David Limonche",
-    "short_name": "David Limonche",
-    "start_url": "https://www.davidlimonche.com/",
-    "display": "standalone",
-    "icons": [{
-        "sizes": "114x114",
-        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
-    }, {
-        "sizes": "120x120",
-        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
-    }, {
-        "sizes": "144x144",
-        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
-    }, {
-        "sizes": "152x152",
-        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
-    }, {
-        "sizes": "180x180",
-        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
-    }, {
-        "sizes": "57x57",
-        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
-    }, {
-        "sizes": "60x60",
-        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
-    }, {
-        "sizes": "72x72",
-        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
-    }, {
-        "sizes": "76x76",
-        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg"
-    }, {
-        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg",
-        "type": "image/png",
-        "sizes": "192x192"
-    }, {
-        "src": "https://rawcdn.githack.com/davidlimonche/archivos-davidlimonche/8165e16369b80bfa3f36be2fef853750f224a351/david-limonche-logo-redondeado_svg.svg",
-        "type": "image/png",
-        "sizes": "512x512"
-    }]
+  "dir": "ltr",
+  "lang": "en",
+  "name": "David Limonche",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "/",
+  "short_name": "David Limonche",
+  "theme_color": "#FFFFFF",
+  "description": "Te enseño DISEÑO WEB y te doy Tips para que sepas POSICIONAR las webs que tu mismo haz creado",
+  "orientation": "any",
+  "background_color": "#FFFFFF",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "screenshots": [
+    {
+      "src": "assets/screen.png"
+    },
+    {
+      "src": "assets/screen.png"
+    },
+    {
+      "src": "assets/screen.png"
+    }
+  ],
+  "features": [
+    "Cross Platform",
+    "low-latency inking",
+    "fast",
+    "useful AI"
+  ],
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/-cL2QLvr_nuw/Y88knFsEpiI/AAAAAAAAAPg/CXNtTkAoOgkyJj3pH8Oxd6V2UQ321UKRQCNcBGAsYHQ/w192-h192-p-k-no-nu/david-limonche-logo-redondeado_PNG.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-cL2QLvr_nuw/Y88knFsEpiI/AAAAAAAAAPg/CXNtTkAoOgkyJj3pH8Oxd6V2UQ321UKRQCNcBGAsYHQ/w192-h192-p-k-no-nu/david-limonche-logo-redondeado_PNG.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-cL2QLvr_nuw/Y88knFsEpiI/AAAAAAAAAPg/CXNtTkAoOgkyJj3pH8Oxd6V2UQ321UKRQCNcBGAsYHQ/w512-h512-p-k-no-nu/david-limonche-logo-redondeado_PNG.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-cL2QLvr_nuw/Y88knFsEpiI/AAAAAAAAAPg/CXNtTkAoOgkyJj3pH8Oxd6V2UQ321UKRQCNcBGAsYHQ/w512-h512-p-k-no-nu/david-limonche-logo-redondeado_PNG.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Start Live Session",
+      "short_name": "Start Live",
+      "description": "Jump direction into starting or joining a live session",
+      "url": "/?startLive",
+      "icons": [
+        {
+          "src": "https://lh3.googleusercontent.com/-cL2QLvr_nuw/Y88knFsEpiI/AAAAAAAAAPg/CXNtTkAoOgkyJj3pH8Oxd6V2UQ321UKRQCNcBGAsYHQ/w192-h192-p-k-no-nu/david-limonche-logo-redondeado_PNG.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "business",
+    "education",
+    "productivity",
+    "utilities"
+  ]
 }
